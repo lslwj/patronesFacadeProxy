@@ -6,7 +6,8 @@
 ## 2. Problema que resuelven:
 ### Patrón Proxy: 
   Resuelve un problema de consumo de memoria y seguridad. Utiliza un proxy de protecciónn que intercepta la petición, evalúa el rol del usuario y solo carga el documento en memoria si el acceso es autorizado. 
-### Patron Facade
+### Patron Facade:
+  Resuelve un problema de complejidad y acoplamiento. Introduce una interfaz simple y unificada que oculta la complejidad del subsistema y reduce el número de dependencias del cliente
 
 ## 3. Versión del lenguaje 
 * **Lenguaje:** Crystal versión 1.20.0-1
@@ -19,4 +20,5 @@
 Abrir la terminal en la carpeta del repositorio y ejecutar el comando:
 ```bash
 cristal run proxy.cr
+crystal run facade.cr
 
