@@ -4,7 +4,8 @@
 * **Façade**:
 
 ## 2. Problema que resuelven:
-### Patrón Proxy: Resuelve un problema de consumo de memoria y seguridad. Utiliza un proxy de protecciónn que intercepta la petición, evalúa el rol del usuario y solo carga el documento en memoria si el acceso es autorizado. 
+### Patrón Proxy: 
+  Resuelve un problema de consumo de memoria y seguridad. Utiliza un proxy de protecciónn que intercepta la petición, evalúa el rol del usuario y solo carga el documento en memoria si el acceso es autorizado. 
 ### Patron Facade
 
 ## 3. Versión del lenguaje 
